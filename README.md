@@ -1,9 +1,6 @@
-
 # UIKit Example
 
 Este é um projeto escrito em UIKit que visa exemplificar o uso do framework de construção de interfaces, além de fornecer um modelo prático de organização simplificada de código e componentes.
-
-
 
 ## Autores
 
